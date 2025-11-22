@@ -1,0 +1,19 @@
+{
+  "name": "tmdb-proxy",
+  "version": "1.0.0",
+  "description": "TMDB API and Image Proxy using Vercel Edge Functions",
+  "main": "api/[...path].js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "tmdb",
+    "proxy",
+    "vercel",
+    "edge"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
