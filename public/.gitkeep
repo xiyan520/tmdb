@@ -1,0 +1,3 @@
+# 此目录用于 Vercel 构建输出
+# Edge Functions 项目不需要静态文件，但 Vercel 需要此目录存在
+
