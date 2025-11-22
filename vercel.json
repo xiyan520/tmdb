@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/tmdb.js": {
-      "runtime": "edge"
-    }
-  },
   "rewrites": [
     {
       "source": "/(.*)",
